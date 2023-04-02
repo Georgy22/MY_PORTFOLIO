@@ -57,6 +57,7 @@ body {
 @media screen and (max-width: 1080px) {
   .header-content {
     height: 50vh;
+    padding-left: 0;
   
   }
 }
@@ -173,6 +174,12 @@ p {
   margin-left: 12px;
 }
 
+@media screen and (max-width: 1080px) {
+   .mySlides {
+      margin-left: 0;
+}
+}
+
 .mySlides img1 {
   height: 50%;
   width: 100px;
@@ -183,7 +190,7 @@ p {
   .mySlides img1 {
     margin: 0;
     width: 100%;
-    padding: 0 5px;
+    padding: 0;
     min-height: 2em;
     color: black;
 
