@@ -269,7 +269,7 @@ padding-left: 35%;
 
 .case-study {
   margin: 0;
-  padding: 5px;
+  padding: 5px 5px 5px 0;
   display: flex;
   justify-content: center;
 }
@@ -277,7 +277,7 @@ padding-left: 35%;
 @media screen and (max-width: 1080px) {
   .case-study {
     width: 100vw;
-    margin: 0 5px 25px 5px;
+    margin: 0 5px 25px 0;
 }
 }
 
@@ -290,12 +290,13 @@ padding-left: 35%;
     position: relative;
     padding-top: 30%;
     padding-left: 0;
+    margin-left: 0;
 }
 }
 
 .case-study1 {
 padding-top: 2.5%;
-  padding-left: 1.1em;
+  padding-left: 5px;
   font-size: 1.1rem;
   overflow: hidden;
   margin-left: 10px;
