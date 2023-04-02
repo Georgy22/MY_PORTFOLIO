@@ -58,6 +58,7 @@ body {
   .header-content {
     height: 50vh;
     padding-left: 0;
+    margin-left: 0;
   
   }
 }
