@@ -15,7 +15,7 @@ body {
 
 @media screen and (max-width: 1080px) {
   body {
-    height: 70vh;
+    height: 75vh;
     width: 100%;
     display: block;
     font-size: 1.1rem;
@@ -24,7 +24,7 @@ body {
 
 @media screen and (max-width: 1400px) {
   body {
-    height: 70vh;
+    height: 100vh;
     width: 100%;
     display: block;
     font-size: 1.1rem;
@@ -43,7 +43,7 @@ body {
 .header-content {
   height: 70vh;
   width: 100%;
-  margin: 4px 4px 4px 10px;
+  margin: 4px;
   object-fit: cover;
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("img2.webp");
   background-repeat: no-repeat;
@@ -56,7 +56,7 @@ body {
 
 @media screen and (max-width: 1080px) {
   .header-content {
-    height: 30vh;
+    height: 50vh;
   
   }
 }
@@ -145,7 +145,7 @@ p {
   overflow: hidden;  
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1080px) {
   p {
       font-size: 1rem;
       padding: 0 20px 0 0;
@@ -183,7 +183,7 @@ p {
   .mySlides img1 {
     margin: 0;
     width: 100%;
-    padding: 0 10px;
+    padding: 0 5px;
     min-height: 2em;
     color: black;
 
