@@ -43,7 +43,7 @@ body {
 .header-content {
   height: 70vh;
   width: 100%;
-  margin: 4px;
+  margin: 0;
   object-fit: cover;
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("img2.webp");
   background-repeat: no-repeat;
@@ -58,7 +58,7 @@ body {
   .header-content {
     height: 50vh;
     padding-left: 0;
-    margin-left: 0;
+    margin: 0;
   
   }
 }
@@ -289,6 +289,7 @@ padding-left: 35%;
     top: 138%;
     position: relative;
     padding-top: 30%;
+    padding-left: 0;
 }
 }
 
