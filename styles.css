@@ -162,7 +162,7 @@ p {
   align-items: center;
   width: 100%;
   height: 100%;
-  margin-bottom: 10%;
+  margin-bottom: 12%;
   overflow: hidden;
 }
 
@@ -385,7 +385,7 @@ background-color: #0077b5;
 
 
 .contact h1 {
-background-color: linear-gradient(lilac, white);
+background: linear-gradient(to left, lilac, white);
 font-size: 2em;
 align-content: center;
 justify-content: center;
