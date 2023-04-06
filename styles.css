@@ -320,7 +320,7 @@ position: absolute;
 text-align: center;
   color: #E0B0FF;
   width: 20%;
-  bottom: 20%;
+  bottom: 10%;
   left: 40%;
   text-decoration: none;
   background-color: #553a68;
@@ -384,7 +384,7 @@ background-color: #0077b5;
 
 
 .contact h1 {
-background: conic-gradient(from 40deg at 40% 20%, orchid, violet);
+background: conic-gradient(from 40deg at 40% 20%, burgundy, violet);
 font-size: 2em;
 align-content: center;
 justify-content: center;
